@@ -1,0 +1,3 @@
+cat > .replit << 'EOF'
+run = "npm start"
+EOF

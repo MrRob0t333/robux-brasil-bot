@@ -1,0 +1,19 @@
+{
+  "name": "robux-brasil-bot",
+  "version": "1.0.0",
+  "description": "Bot de tickets profissional para Robux Brasil",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy": "node src/deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^17.3.1",
+    "express": "^4.18.2",
+    "moment": "^2.29.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

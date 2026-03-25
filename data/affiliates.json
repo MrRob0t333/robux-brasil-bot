@@ -1,0 +1,224 @@
+{
+  "users": {
+    "1108166595374751828": {
+      "username": "dontgetafuark",
+      "totalSales": 2,
+      "totalCommission": 468.18,
+      "availableBalance": 38.18000000000001,
+      "createdAt": "2026-03-25T17:28:22.006Z",
+      "clicks": {
+        "1330876936926269505": {
+          "username": "mrrbt0",
+          "enteredAt": "2026-03-25T17:32:24.142Z",
+          "enteredVia": "aSD2xbReNf",
+          "purchased": true,
+          "purchaseAmount": 100000,
+          "commission": 459,
+          "confirmed": false,
+          "confirmedAt": "2026-03-25T17:34:44.303Z"
+        }
+      },
+      "links": [
+        {
+          "code": "aSD2xbReNf",
+          "url": "https://discord.gg/aSD2xbReNf",
+          "createdAt": "2026-03-25T17:28:50.031Z",
+          "uses": 1
+        }
+      ],
+      "withdrawals": [
+        "1774460107822",
+        "1774463823344",
+        "1774463852161",
+        "1774463911119"
+      ]
+    }
+  },
+  "invites": {
+    "aSD2xbReNf": {
+      "affiliateId": "1108166595374751828",
+      "createdAt": "2026-03-25T17:28:50.031Z"
+    }
+  },
+  "sales": [
+    {
+      "id": "1774460015548",
+      "buyerId": "1330876936926269505",
+      "buyerUsername": "mrrbt0",
+      "affiliateId": "1108166595374751828",
+      "robuxAmount": 2000,
+      "price": 91.8,
+      "commission": 9.18,
+      "ticketChannelId": "1486417748253999235",
+      "staffWhoClosed": "dontgetafuark",
+      "date": "2026-03-25T17:33:35.548Z",
+      "status": "confirmed",
+      "confirmedAt": "2026-03-25T17:33:46.339Z"
+    },
+    {
+      "id": "1774460079943",
+      "buyerId": "1330876936926269505",
+      "buyerUsername": "mrrbt0",
+      "affiliateId": "1108166595374751828",
+      "robuxAmount": 100000,
+      "price": 4590,
+      "commission": 459,
+      "ticketChannelId": "1486418011622608946",
+      "staffWhoClosed": "dontgetafuark",
+      "date": "2026-03-25T17:34:39.943Z",
+      "status": "confirmed",
+      "confirmedAt": "2026-03-25T17:34:44.303Z"
+    },
+    {
+      "id": "1774463245389",
+      "buyerId": "1108166595374751828",
+      "buyerUsername": "dontgetafuark",
+      "affiliateId": null,
+      "robuxAmount": 5000,
+      "price": 149.95,
+      "commission": 14.995,
+      "ticketChannelId": "1486426265488719882",
+      "staffWhoClosed": "dontgetafuark",
+      "date": "2026-03-25T18:27:25.389Z",
+      "status": "rejected",
+      "rejectedAt": "2026-03-25T18:34:31.300Z"
+    },
+    {
+      "id": "1774463688428",
+      "buyerId": "1108166595374751828",
+      "buyerUsername": "dontgetafuark",
+      "affiliateId": null,
+      "robuxAmount": 1000,
+      "price": 45.9,
+      "commission": 4.59,
+      "ticketChannelId": "1486433159158698217",
+      "staffWhoClosed": "dontgetafuark",
+      "date": "2026-03-25T18:34:48.428Z",
+      "status": "rejected",
+      "rejectedAt": "2026-03-25T18:35:00.960Z"
+    },
+    {
+      "id": "1774463746345",
+      "buyerId": "1108166595374751828",
+      "buyerUsername": "dontgetafuark",
+      "affiliateId": null,
+      "robuxAmount": 5423145,
+      "price": 162640.11855,
+      "commission": 16264.011855000002,
+      "ticketChannelId": "1486433352234832006",
+      "staffWhoClosed": "dontgetafuark",
+      "date": "2026-03-25T18:35:46.345Z",
+      "status": "rejected",
+      "rejectedAt": "2026-03-25T18:36:19.336Z"
+    },
+    {
+      "id": "1774463736592",
+      "buyerId": "1108166595374751828",
+      "buyerUsername": "dontgetafuark",
+      "affiliateId": null,
+      "robuxAmount": 100000,
+      "price": 4590,
+      "commission": 459,
+      "ticketChannelId": "1486433307011842260",
+      "staffWhoClosed": "dontgetafuark",
+      "date": "2026-03-25T18:35:36.592Z",
+      "status": "rejected",
+      "rejectedAt": "2026-03-25T18:36:21.423Z"
+    }
+  ],
+  "pendingSales": [
+    {
+      "id": "1774462014906",
+      "buyerId": "1108166595374751828",
+      "buyerUsername": "dontgetafuark",
+      "affiliateId": null,
+      "robuxAmount": 1000,
+      "price": 45.9,
+      "commission": 4.59,
+      "ticketChannelId": "1486423380440649940",
+      "staffWhoClosed": "dontgetafuark",
+      "date": "2026-03-25T18:06:54.906Z",
+      "status": "pending"
+    },
+    {
+      "id": "1774462018488",
+      "buyerId": "1108166595374751828",
+      "buyerUsername": "dontgetafuark",
+      "affiliateId": null,
+      "robuxAmount": 1000,
+      "price": 45.9,
+      "commission": 4.59,
+      "ticketChannelId": "1486423401361834064",
+      "staffWhoClosed": "dontgetafuark",
+      "date": "2026-03-25T18:06:58.488Z",
+      "status": "pending"
+    },
+    {
+      "id": "1774462494598",
+      "buyerId": "1108166595374751828",
+      "buyerUsername": "dontgetafuark",
+      "affiliateId": null,
+      "robuxAmount": 5000,
+      "price": 229.5,
+      "commission": 22.950000000000003,
+      "ticketChannelId": "1486426265488719882",
+      "staffWhoClosed": "dontgetafuark",
+      "date": "2026-03-25T18:14:54.598Z",
+      "status": "pending"
+    }
+  ],
+  "withdrawals": [
+    {
+      "id": "1774460107822",
+      "affiliateId": "1108166595374751828",
+      "affiliateUsername": "dontgetafuark",
+      "amount": 300,
+      "method": "robux",
+      "pixKey": null,
+      "robuxUsername": "joebersonzika",
+      "robuxAmount": 10000,
+      "date": "2026-03-25T17:35:07.822Z",
+      "status": "confirmed",
+      "confirmedAt": "2026-03-25T17:35:23.515Z"
+    },
+    {
+      "id": "1774463823344",
+      "affiliateId": "1108166595374751828",
+      "affiliateUsername": "dontgetafuark",
+      "amount": 30,
+      "method": "robux",
+      "pixKey": null,
+      "robuxUsername": "HODOWQEE",
+      "robuxAmount": 1000,
+      "date": "2026-03-25T18:37:03.344Z",
+      "status": "confirmed",
+      "confirmedAt": "2026-03-25T18:37:09.128Z"
+    },
+    {
+      "id": "1774463852161",
+      "affiliateId": "1108166595374751828",
+      "affiliateUsername": "dontgetafuark",
+      "amount": 30,
+      "method": "dinheiro",
+      "pixKey": "EQ@EWQRQW",
+      "robuxUsername": null,
+      "robuxAmount": null,
+      "date": "2026-03-25T18:37:32.161Z",
+      "status": "rejected",
+      "rejectedAt": "2026-03-25T18:37:38.190Z"
+    },
+    {
+      "id": "1774463911119",
+      "affiliateId": "1108166595374751828",
+      "affiliateUsername": "dontgetafuark",
+      "amount": 100,
+      "method": "robux",
+      "pixKey": null,
+      "robuxUsername": "sefpwefwe",
+      "robuxAmount": 3333,
+      "date": "2026-03-25T18:38:31.119Z",
+      "status": "confirmed",
+      "confirmedAt": "2026-03-25T18:38:35.449Z"
+    }
+  ]
+}
